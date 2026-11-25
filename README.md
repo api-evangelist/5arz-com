@@ -66,7 +66,7 @@
 
 5arz provides a proof‑of‑human service that verifies a real person behind online interactions. Their platform offers APIs to confirm human presence, Know‑Your‑Agent verification, and human‑labeled data for AI agents. Built as a free, privacy‑first solution, 5arz signs cryptographic seals proving personhood without storing personal data. The company targets developers, businesses, and AI platforms needing trustworthy human verification, offering documentation, pricing, and support openly.
 
-**Areas:** Human Verification · AI · Privacy · Developer Tools · Authentication
+**Areas:** Human Verification · Artificial Intelligence · Privacy · Developer Tools · Authentication
 
 ## 5arz on APIs.io
 
@@ -94,6 +94,12 @@ Linked-data contexts for the provider's vocabulary.
 
 - [5Arz Com Context](https://apis.io/jsonld/5arz-com/5arz-com-context/)
 
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [5arz Api Certification Overlay](https://apis.io/overlays/5arz-com/5arz-com-api-certification-overlay/)
+
 #### Governance rules (1)
 
 Spectral rulesets for the provider's contracts.
@@ -104,14 +110,14 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [5Arz Com Domain Security](https://apis.io/security/5arz-com/5arz-com-domain-security/)
-- [5Arz Com Vulnerability Disclosure](https://apis.io/security/5arz-com/5arz-com-vulnerability-disclosure/)
+- [5arz Domain Security](https://apis.io/security/5arz-com/5arz-com-domain-security/)
+- [5arz Vulnerability Disclosure](https://apis.io/security/5arz-com/5arz-com-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [5Arz Com Plans Pricing](https://apis.io/plans/5arz-com/5arz-com-plans-pricing/)
+- [5arz Plans Pricing](https://apis.io/plans/5arz-com/5arz-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -128,18 +134,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 51.0** — developing · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 45.5** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 83.9 |
 | Contract quality | 46.7 |
-| Contract governance | 79.1 |
-| Operational transparency | 10.5 |
+| Contract governance | 22.0 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 19.0 |
-| Access clarity | 81.1 |
+| Access clarity | 83.0 |
 
-**Agent readiness 13.7** — agent-aware
+**Agent readiness 13.4** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -164,6 +170,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
 
